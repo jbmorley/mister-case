@@ -1,1 +1,1 @@
-# mister-case
+# MiSTer Case
