@@ -2,4 +2,6 @@
 
  Laser-cut case for the MiSTer 
 
-![Fusion 360 render of the MiSTer case](images/front.jpg)
+![Photo of the front and top of the MiSTer case](images/front.jpg)
+
+![Photo of the side of the MiSTer case](images/side.jpg)
